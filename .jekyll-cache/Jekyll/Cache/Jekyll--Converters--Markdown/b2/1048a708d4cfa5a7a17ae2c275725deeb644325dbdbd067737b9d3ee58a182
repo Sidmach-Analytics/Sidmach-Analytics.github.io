@@ -1,9 +1,4 @@
----
-title: "Wale"
-layout: default
-permalink: "/author-wale.html"
----
-<div class="container">
+I"7<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -13,7 +8,7 @@ permalink: "/author-wale.html"
                 <p class="excerpt">{{ site.authors.wale.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.wale.name }}" src="{{site.url}}/{{ site.authors.wale.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.wale.name }}" src="{{site.url}}/{{ site.authors.wale.avatar }}" class="rounded-circle" height="100" width="100" />
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
@@ -24,3 +19,4 @@ permalink: "/author-wale.html"
     </div>
 </div>
 </div>
+:ET

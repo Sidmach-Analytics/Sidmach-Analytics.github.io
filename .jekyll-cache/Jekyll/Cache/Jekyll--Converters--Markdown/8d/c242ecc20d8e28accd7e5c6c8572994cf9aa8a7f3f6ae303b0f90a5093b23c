@@ -1,0 +1,91 @@
+I"è<div class="container">
+<h4 class="font-weight-bold spanborder"><span>Authors</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Wale" src="//assets/images/avatar3.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-wale">
+            <h4 class="text-dark mb-0"> Wale </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Hi, I am Wale, a machine learning engineer and data scientist at Sidmach Technologies. I love building intelligent tools and helping others do the same.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/__Opa_"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://CaduceusInc.github.io"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Daniel" src="//assets/images/avatar4.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-daniel">
+            <h4 class="text-dark mb-0"> Daniel </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Software developer and data engineer at Sidmach Analytics. I love to explore new ideas and change lives while at it.</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/adajidaniel14a1"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.wowthemes.net"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Gafar" src="//assets/images/avatar2.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-gafar">
+            <h4 class="text-dark mb-0"> Gafar </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Full-stack software developer and data scientist at Sidmach Analytics. I love bringing my ideas to life!</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.wowthemes.net"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Mumin" src="//assets/images/avatar2.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/author-mumin">
+            <h4 class="text-dark mb-0"> Mumin </h4>
+            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+            <div class="excerpt">Software developer and data scientist at Sidmach Analytics love to explore new ideas and write on my morning coffee!</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://www.wowthemes.net"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+    </div>
+</div>
+:ET
