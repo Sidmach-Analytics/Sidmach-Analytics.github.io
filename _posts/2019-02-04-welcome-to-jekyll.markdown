@@ -1,20 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Sidmach's AI and Data Science blog!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
+author: daniel
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If you're reading this, and happen to be an AI enthusiast or curious data scientist, you are in the right place.
+Here in the Sidmach Data team, we aim to bring simplicity to the AI community by effectively communicating 
+bits of our work process to the AI community, so as to help further drive the democratizatiion of Artificial Intelligence, especially in Nigeria.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
