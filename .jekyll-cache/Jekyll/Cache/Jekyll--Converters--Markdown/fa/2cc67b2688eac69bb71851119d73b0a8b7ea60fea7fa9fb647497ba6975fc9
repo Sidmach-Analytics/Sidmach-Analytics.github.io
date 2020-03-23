@@ -1,0 +1,48 @@
+I"è<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Daniel <span class="small btn btn-outline-success btn-sm btn-round"><a href="">Follow</a></span></h2>
+                <p><a href=""></a></p>
+                <p class="excerpt"></p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="" src="/" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Daniel</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/welcome-to-jekyll/">Welcome to Sidmach's AI and Data Science blog!</a>
+	</h2>
+	<p class="excerpt">
+	   If you‚Äôre reading this, and happen to be an AI enthusiast or curious data scientist, you are in the right place.Here in the Sidmach Data team, we aim to bring simplicity to the AI com...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 04, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/welcome-to-jekyll/">
+	<img class="w-100" src="/assets/images/demo1.jpg" alt="Welcome to Sidmach's AI and Data Science blog!" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET
